@@ -57,14 +57,14 @@
     "semver": "5.1.0",
     "send": "0.13.2",
     "spawn-cmd": "0.0.2",
-    "tiny-lr": "0.2.1",
+    "tiny-lr": "1.1.1",
     "tmp": "0.0.28",
     "urijs": "1.18.0"
   },
   "devDependencies": {
-    "eslint": "2.10.2",
+    "eslint": "4.7.0",
     "expect": "^1.20.1",
-    "mocha": "^2.4.5"
+    "mocha": "^4.0.0"
   },
   "scripts": {
     "lint": "eslint .",
